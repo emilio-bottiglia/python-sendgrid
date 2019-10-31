@@ -1,4 +1,4 @@
-import os #to rertrieve environment variables
+import os #to rertrieve environment variable
 import smtplib #to send email
 import ssl #support for ssl
 from email.message import EmailMessage #message formatting
